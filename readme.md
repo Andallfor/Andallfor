@@ -1,5 +1,4 @@
 ![](welcome.png)
-#
 
 ### A kid with too much free time
 
@@ -10,8 +9,6 @@
 ### 🦾 FTC Team [Dejava #11695](https://instagram.com/dejava11695)
 ### 💻Making [Games](https://github.com/Andallfor/pythonista-FLL-2019-States), [Simulations](https://github.com/Andallfor/RPS), and [Scientific Applications](https://github.com/Andallfor/MVT)
 ### 🕹️ ~~[Abandoning](https://github.com/Andallfor/Andallfors-Text-Engine) [Projects](https://github.com/Andallfor/rts)~~ Coding Since [2018](https://github.com/Andallfor/pythonista-platformer)
-
-## 
 
 ## Languages:
 <p align="left">
@@ -24,7 +21,7 @@
 
 ## Tools:
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="unity" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
 </p>
