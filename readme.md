@@ -2,8 +2,6 @@
 
 ### A kid with too much free time
 
-##
-
 ## Experiences
 ### 🛰️ NASA Intern Summers of [2021](https://github.com/vickicarrica/Mission-Visualization-Toolkit), [2022](https://github.com/Andallfor/MVT), 2023
 ### 🦾 FTC Team [Dejava #11695](https://instagram.com/dejava11695)
