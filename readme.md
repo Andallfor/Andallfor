@@ -26,4 +26,4 @@
 
 #
 ![](moon3.png)
-[Images Generated and Moon Created By Me](https://github.com/Andallfor/MVT)
+[Images and Moon Created By Me](https://github.com/Andallfor/MVT)
