@@ -1,6 +1,6 @@
 ![](welcome.png)
 
-### oh no
+oh no
 
 ## Experiences
 ### 🛰️ NASA Intern Summers of [2021](https://github.com/vickicarrica/Mission-Visualization-Toolkit), [2022](https://github.com/Andallfor/MVT), [2023](https://github.com/Andallfor/MVT)
